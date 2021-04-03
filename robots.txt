@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /css*
+Disallow: /js*
+Disallow: /config*
+Disallow: /template*
+Dissalow: /img*
+Dissalow: /fonts*
+
+Dissalow: /recup.php
+Dissalow: /verif.php
