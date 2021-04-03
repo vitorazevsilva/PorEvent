@@ -21,7 +21,7 @@
         $mail->SMTPSecure = "tls";
         $mail->Port = "587";
         $mail->Username = "porevent2020@gmail.com";
-        $mail->Password = "poreventpap";
+        $mail->Password = "";
 
         //Config. da Mensagem
         $mail->setFrom($mail->Username,'PorEvent');
