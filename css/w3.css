@@ -1,0 +1,20 @@
+.w3-body{
+    height: 100%
+}
+.w3-font{
+    font-family: "Raleway", sans-serif
+}
+
+
+.w3-bgimg{
+    min-height: 100%;
+    background-image: url("../img/eventos.jpg");
+    background-repeat: repeat-y;
+}
+
+.w3-rounded{
+    border-radius:25rem!important
+}
+
+
+
